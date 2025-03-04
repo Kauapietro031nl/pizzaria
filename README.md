@@ -10,3 +10,6 @@ imagens do projeto
 ![foto-site-seção-6](https://github.com/user-attachments/assets/f1a0efa1-99b2-4587-b26f-deb9b96c80a3)
 
 link do site: https://kauapietro031nl.github.io/pizzaria/
+
+git clone https://github.com/Kauapietro031nl/pizzaria.git
+
