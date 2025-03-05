@@ -1,4 +1,7 @@
 pizzaria
+objetivo do projeto é um site de uma pizzaria funcional utilizando  as tecnologias aprendidas
+
+projeto em construção 
 
 imagens do projeto
 
